@@ -1,0 +1,5 @@
+,lat,lng,distance,formattedAddress,name,geometry
+0,34.047554,-118.44523,26,"['11155 Santa Monica Blvd', 'West Los Angeles, CA 90025', 'United States']",Starbucks,POINT (-118.44523 34.047554)
+1,34.049039852287805,-118.44505338479911,193,"['1640 S Sepulveda Blvd Ste 100', 'Los Angeles, CA 90025', 'United States']",Fusion Academy Los Angeles,POINT (-118.4450533847991 34.04903985228781)
+2,34.047436,-118.44341200000001,169,"['11086 Santa Monica Blvd (S Sepulveda Blvd)', 'Los Angeles, CA 90025', 'United States']",The Vegan Mediterranean,POINT (-118.443412 34.047436)
+3,34.07097798709694,-118.44482335324683,2634,"['Los Angeles, CA 90095', 'United States']",Paulley Pavillon,POINT (-118.4448233532468 34.07097798709694)
