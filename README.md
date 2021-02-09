@@ -1,6 +1,6 @@
 # geospatial_data_project
 
-![img]("https://raw.githubusercontent.com/SergioCaler0/geospatial_data_project/main/img/mapa_readme.jpeg")
+![Imagen de un mapa]("https://raw.githubusercontent.com/SergioCaler0/geospatial_data_project/main/img/mapa_readme.jpeg")
 
 Nos han pedido que busquemos la mejor ubicación posible para montar las oficinas de nnuestra empresa, para ello nos han dado una serie de condiciones que deberia de cumplir.
 Los requisitos que hemos considerado mas importantes son los siguientes,.
