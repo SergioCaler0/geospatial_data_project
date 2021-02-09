@@ -15,5 +15,5 @@ Los requisitos que hemos considerado mas importantes son los siguientes,.
 
 Con una busqueda en la base de datos de las empresas, encuentro una empresa que utiliza una de las plantas de un edificio en Los Angeles como ubicación de su empresa. Nos vamos a centrar en ese punto para ver si cumple algunas de nuestras condiciones y poder alquilar una planta del edificio para poder ubicarnos.
 
-
+![Resultado final mapa](https://github.com/SergioCaler0/geospatial_data_project/blob/main/img/imagen_readme.png)
 
